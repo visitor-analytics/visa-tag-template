@@ -1,0 +1,5 @@
+homepage: "https://www.visitor-analytics.io/"
+documentation: "https://www.visitor-analytics.io/TODO"
+versions:
+  - sha: 5265db44820ad7c70b5c9915ea900ded6cda0226
+    changeNotes: Initial Version
