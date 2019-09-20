@@ -22,6 +22,7 @@ ___TEMPLATE_PARAMETERS___
 
 [
   {
+    "help": "Get the Visitor Analytics Website ID by going to app.visitor-analytics.io/my-account/websites and clicking on the COPY ID label of your desired website.",
     "displayName": "Website ID",
     "simpleValueType": true,
     "name": "websiteId",
@@ -143,4 +144,4 @@ data.gtmOnSuccess();
 
 ___NOTES___
 
-Created on 08/08/2019, 14:29:33
+Created on 20/09/2019, 14:45:35
