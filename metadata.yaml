@@ -1,5 +1,5 @@
 homepage: "https://www.visitor-analytics.io/"
 documentation: "https://support.visitor-analytics.io/en/articles/3353188-how-do-i-install-visitor-analytics-using-google-tag-manager"
 versions:
-  - sha: 5265db44820ad7c70b5c9915ea900ded6cda0226
+  - sha: 131e378770270337ba4a31e4672eaf0bc97afb32
     changeNotes: Initial Version
