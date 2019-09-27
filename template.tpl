@@ -1,8 +1,13 @@
-﻿___INFO___
+﻿___TERMS_OF_SERVICE___
+
+By creating or modifying this file you agree to Google Tag Manager's Community Template Gallery Developer Terms of Service available at https://developers.google.com/tag-manager/gallery-tos (or such other URL as Google may provide), as modified from time to time.
+
+___INFO___
 
 {
   "displayName": "Visitor Analytics",
-  "description": "Visitor Analytics helps you understand your site statistics and visitors' activity using a simple interface. Key stats: visitors, bounce rate, conversions, map, users' path&history, referrals and more",
+  "description": "Visitor Analytics helps you understand your site statistics and visitors’ activity using a simple interface. Key stats: visitors, bounce rate, conversions, map, users’ path&history, referrals and more. For more information on how to install, visit https://support.visitor-analytics.io/en/articles/3353188-how-do-i-install-visitor-analytics-using-google-tag-manager",
+  "categories": ["ANALYTICS"],
   "securityGroups": [],
   "id": "cvt_temp_public_id",
   "type": "TAG",
