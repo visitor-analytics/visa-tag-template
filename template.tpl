@@ -5,8 +5,8 @@ By creating or modifying this file you agree to Google Tag Manager's Community T
 ___INFO___
 
 {
-  "displayName": "Visitor Analytics",
-  "description": "Visitor Analytics helps you understand your site statistics and visitors’ activity using a simple interface. Key stats: visitors, bounce rate, conversions, map, users’ path&history, referrals and more. For more information on how to install, visit https://support.visitor-analytics.io/en/articles/3353188-how-do-i-install-visitor-analytics-using-google-tag-manager",
+  "displayName": "TWIPLA",
+  "description": "TWIPLA helps you understand your site statistics and visitors’ activity using a simple interface. Key stats: visitors, bounce rate, conversions, map, users’ path&history, referrals and more. For more information on how to install, visit https://www.twipla.com/en/support/integrating-with-other-platforms/google-tag-manager",
   "categories": ["ANALYTICS"],
   "securityGroups": [],
   "id": "cvt_temp_public_id",
@@ -27,7 +27,7 @@ ___TEMPLATE_PARAMETERS___
 
 [
   {
-    "help": "Get the Visitor Analytics Website ID by going to app.visitor-analytics.io/my-account/websites and clicking on the COPY ID label of your desired website.",
+    "help": "Get the TWIPLA Website ID by going to app.visitor-analytics.io/my-account/websites and clicking on the COPY ID label of your desired website.",
     "displayName": "Website ID",
     "simpleValueType": true,
     "name": "websiteId",

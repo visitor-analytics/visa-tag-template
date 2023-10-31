@@ -1,5 +1,5 @@
-homepage: "https://www.visitor-analytics.io/"
-documentation: "https://support.visitor-analytics.io/en/articles/3353188-how-do-i-install-visitor-analytics-using-google-tag-manager"
+homepage: "https://www.twipla.com"
+documentation: "https://www.twipla.com/en/support/integrating-with-other-platforms/google-tag-manager"
 versions:
   - sha: 7cbe10454369046954a50a2697aba0bba0a3c079
     changeNotes: Initial Version
