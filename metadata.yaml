@@ -1,9 +1,7 @@
 homepage: "https://www.twipla.com"
 documentation: "https://www.twipla.com/en/support/integrating-with-other-platforms/google-tag-manager"
 versions:
-  - sha: db312e51544b82c972359fec779531b3e252fa8e
-    changeNotes: Update description with logo
-  - sha: b3f49e0fbcb5d00c948b8a86f7e48fb4db29db7d
+  - sha: e9a56dc8637b9c892688c64ba3b7aab77ed6c197
     changeNotes: Update branding to TWIPLA
   - sha: 7cbe10454369046954a50a2697aba0bba0a3c079
     changeNotes: Initial Version
